@@ -1,6 +1,6 @@
-# Koshi - Final Year College Project
+# Online Tourist Guide Dharan - Final Year College Project
 
-Koshi is a web application designed as part of a final year college project. It is built using modern web development technologies and follows best practices for scalability, maintainability, and performance. The project includes both frontend and backend components, making it a full-stack application.
+Online Tourist Guide Dharan is a web application designed as part of a final year college project. It is built using modern web development technologies and follows best practices for scalability, maintainability, and performance. The project includes both frontend and backend components, making it a full-stack application.
 
 ---
 
@@ -61,4 +61,4 @@ The project is organized into the following directories:
 1. Clone the repository:
    ```bash
    git clone https://github.com/myselfrabin/final_year_college_project.git
-   cd Koshi
+   cd Online-Tourist-Guide-Dharan
